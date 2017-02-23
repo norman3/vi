@@ -1,2 +1,3 @@
-# vi
-variational
+# Variational Inference
+
+- Introduction to VI
